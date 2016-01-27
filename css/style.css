@@ -291,7 +291,7 @@ UPPERCASE
 CAROUSEL
 --------------------------*/
 
-#owl-demo .item img{
+#owl-demo .items img{
     display: block;
     width: 90%;
     height: auto;
