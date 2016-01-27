@@ -72,7 +72,7 @@ CHECKLIST
 
 .checklist li {
     padding: 0 0 0 22px;
-    background: url("img/checkmark1.png") 5px 5px no-repeat;
+    background: url("/img/checkmark1.png") 5px 5px no-repeat;
     background-size: 12px;
 }
 
